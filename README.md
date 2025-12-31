@@ -4,6 +4,7 @@ An AI-driven system that automates end-to-end customer support workflows using v
 Designed to reduce manual effort, eliminate unnecessary intermediaries, and intelligently escalate only when human intervention is required.
 
 ---
+![AI Voice Agent Demo](./AI-AGENT.gif)
 
 [click to watch demo video](https://github.com/jagtapaumkar/AI-voice-agent-/raw/refs/heads/main/n8n%20AI%20agent.mp4)  
 
