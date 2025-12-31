@@ -5,6 +5,8 @@ Designed to reduce manual effort, eliminate unnecessary intermediaries, and inte
 
 ---
 
+[click to watch demo video](https://github.com/jagtapaumkar/AI-voice-agent-/raw/refs/heads/main/n8n%20AI%20agent.mp4)  
+
 ## 🚀 Overview
 
 This project implements an AI-powered support agent capable of understanding user queries, retrieving relevant organizational information, and responding naturally through text or voice.
